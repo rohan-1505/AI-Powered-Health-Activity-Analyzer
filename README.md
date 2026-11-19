@@ -1,17 +1,17 @@
 # 🏃 AI-Powered Health Activity Analyzer
 
-\<p align="center">
-&#x20; \<b>An AI-powered fitness tracking platform built with Java, Spring Boot, Microservices, React, and Google Gemini AI.\</b>
-\</p>
 
-\<p align="center">
-&#x20; \<img src="[https://img.shields.io/badge/Java-Backend-orange?logo=openjdk](https://img.shields.io/badge/Java-Backend-orange?logo=openjdk)" />
-&#x20; \<img src="[https://img.shields.io/badge/Spring%20Boot-Microservices-6DB33F?logo=springboot](https://img.shields.io/badge/Spring%20Boot-Microservices-6DB33F?logo=springboot)" />
-&#x20; \<img src="[https://img.shields.io/badge/React-Frontend-61DAFB?logo=react](https://img.shields.io/badge/React-Frontend-61DAFB?logo=react)" />
-&#x20; \<img src="[https://img.shields.io/badge/AI-Google%20Gemini-4285F4?logo=google](https://img.shields.io/badge/AI-Google%20Gemini-4285F4?logo=google)" />
-&#x20; \<img src="[https://img.shields.io/badge/Security-Keycloak-4D4D4D?logo=keycloak](https://img.shields.io/badge/Security-Keycloak-4D4D4D?logo=keycloak)" />
-\</p>
+<p align="center">
+  <b>An AI-powered fitness tracking platform built with Java, Spring Boot, Microservices, React, and Google Gemini AI.</b>
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-Backend-orange?logo=openjdk" alt="Java Backend" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-Microservices-6DB33F?logo=springboot" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/React-Frontend-61DAFB?logo=react" alt="React" />
+  <img src="https://img.shields.io/badge/AI-Google%20Gemini-4285F4?logo=google" alt="Google Gemini AI" />
+  <img src="https://img.shields.io/badge/Security-Keycloak-4D4D4D?logo=keycloak" alt="Keycloak" />
+</p>
 ---
 
 ## 📌 Overview
